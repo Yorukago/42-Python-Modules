@@ -1,3 +1,18 @@
 [submodule "42-Python-Module-00"]
 	path = 42-Python-Module-00
 	url = https://github.com/Yorukago/42-Python-Module-00
+[submodule "42-Python-Module-01"]
+	path = 42-Python-Module-01
+	url = https://github.com/Yorukago/42-Python-Module-01
+[submodule "42-Python-Module-02"]
+	path = 42-Python-Module-02
+	url = https://github.com/Yorukago/42-Python-Module-02
+[submodule "42-Python-Module-03"]
+	path = 42-Python-Module-03
+	url = https://github.com/Yorukago/42-Python-Module-03
+[submodule "42-Python-Module-04"]
+	path = 42-Python-Module-04
+	url = https://github.com/Yorukago/42-Python-Module-04
+[submodule "42-Python-Module-05"]
+	path = 42-Python-Module-05
+	url = https://github.com/Yorukago/42-Python-Module-05
